@@ -22,7 +22,7 @@ To pair a DualShock 3 to the console, see the [Pairing a DualShock 3](#pairing-a
 
 ## Installation
 - Download and extract the latest .zip from the [releases page](https://github.com/GaryOderNichts/Bloopair/releases).
-- Copy the `30_bloopair.rpx` from the .zip file to the `modules/setup/` folder of your target environment on the SD Card.  
+- Copy the `30_bloopair.rpx` from the .zip file to the `modules/setup/` folder of your target environment on the SD Card.   
   This would be `wiiu/environments/aroma/modules/setup/` for Aroma.
 - Copy the `wiiu` folder from the .zip and copy it to the root of your SD Card.  
   If you're using aroma you can delete the `Koopair.rpx` in the `wiiu/apps` folder and use the .wuhb instead.
